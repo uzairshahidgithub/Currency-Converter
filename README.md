@@ -9,10 +9,11 @@
 <p align="left">👨‍💻 Creating Bugs Since 2021<br>🎯 Goals to Making influence in Tech Industry<br>💡 Fighting with Errors? Congratulations, you're hired!</p>
 
 ###
-
+<br clear="both">
+<br clear="both">
 <br clear="both">
 
-<h2 align="left">More About Me</h2>
+<h2 align="center">More About Me</h2>
 
 ###
 
